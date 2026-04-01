@@ -60,3 +60,27 @@ section {
     transform: translateY(0);
   }
 }
+#achievements {
+    text-align: center;
+}
+
+button {
+    background-color: #4CAF50; /* Зеленый цвет */
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+    font-size: 18px;
+    margin: 10px 0;
+    width: 100%;
+}
+
+button:hover {
+    background-color: #45a049;
+}
+
+div {
+    text-align: left;
+    margin-top: 10px;
+    padding-left: 20px;
+}
